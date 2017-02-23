@@ -57,11 +57,11 @@ $pic="okok.png";
 		$num=mysql_num_rows($string);
 		for($i=0 ; $i<$num ; $i++)
 		{	$question=mysql_result($string,$i,'question');
-			echo "Q : ".$question."<br>" ;
+			echo "<span style=\"font-size:30px; \">Q : ".$question."</span><br>" ;
 			$detail=mysql_result($string,$i,'detail');
-			echo "<span style=\"font-size:20px; \">".$detail."</span>";
+			echo "<span style=\"font-size:16px; \">".$detail."</span>";
 			echo" &nbsp;<button class=\"btn btn-default\">write answer</button>    ";
-		echo" &nbsp; <button class=\"btn btn-default\">read answer</button><br><hr><br>";
+		echo" &nbsp; <button class=\"btn btn-default\">read answer</button><hr>";
 		}
 	
 	}

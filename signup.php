@@ -184,7 +184,7 @@ width: 250px;
 </head>
 <body>
 <div id="login">
-<h1><strong>Welcome.</strong> Please login.</h1>
+<h1><strong>Welcome.</strong> Please Signup.</h1>
 <form method="POST">
 <fieldset>
 <p><input type="text" required  placeholder="username" name="username"></p>
@@ -195,7 +195,7 @@ width: 250px;
 <input type="radio"  name="a" value="patient">Patient</p>
 
 <p><a href="#">Forgot Password?</a></p>
-<p><input type="submit" value="Login"></p>
+<p><input type="submit" value="Sign up"></p>
 
 </fieldset>
 </form>
