@@ -43,3 +43,9 @@ This complain will be given to government of india/NGO(if interested) and proble
 WHY ASK DOCTOR ONLINE? 
 In India, ratio of doctor to patient is 1:1700 so providing doctor online will majorly help
 patient to reach the doctors and discuss their helath problems.
+
+Sample images:
+<img src="Sample Images/smaple1.png"/>
+<img src="Sample Images/smaple2.png"/>
+<img src="Sample Images/smaple3.png"/>
+<img src="Sample Images/smaple4.png"/>
